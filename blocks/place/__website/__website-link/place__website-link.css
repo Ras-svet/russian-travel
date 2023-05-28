@@ -1,4 +1,4 @@
-.place__website__link {
+.place__website-link {
 	color: #fff;
 	margin: 0 0 0 0;
 	font-family: 'Inter', sans-serif;
@@ -7,6 +7,6 @@
 	font-weight: 400;
 }
 
-.place__website__link:hover {
+.place__website-link:hover {
 	text-decoration: none;
 }

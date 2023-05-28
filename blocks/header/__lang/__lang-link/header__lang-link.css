@@ -1,4 +1,4 @@
-.header__lang_link {
+.header__lang-link {
 	margin: 0 auto;
 	font-family: 'Inter', sans-serif;
 	font-weight: 400;
@@ -11,22 +11,22 @@
 	text-decoration: none;
 }
 
-.header__lang_link:last-child {
+.header__lang-link:last-child {
 	margin-right: 0;
 }
 
-.header__lang_link:focus {
+.header__lang-link:focus {
 	text-decoration: underline;
 }
 
 @media screen and (max-width: 1024px) {
-	.header__lang_link {
+	.header__lang-link {
 		margin-right: 18px;
 	}
 }
 
 @media screen and (max-width: 320px) {
-	.header__lang_link {
+	.header__lang-link {
 		padding-top: 14px;
 		font-size: 16px;
 		line-height: 1.25;
